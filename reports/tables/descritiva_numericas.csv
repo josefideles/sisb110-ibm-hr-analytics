@@ -1,0 +1,12 @@
+variavel,n,media,mediana,desvio_padrao,Q1,Q3,IQR,assimetria,minimo,maximo
+Age,1470,36.92,36.0,9.14,30.0,43.0,13.0,0.41,18,60
+MonthlyIncome,1470,6502.93,4919.0,4707.96,2911.0,8379.0,5468.0,1.37,1009,19999
+DistanceFromHome,1470,9.19,7.0,8.11,2.0,14.0,12.0,0.96,1,29
+NumCompaniesWorked,1470,2.69,2.0,2.5,1.0,4.0,3.0,1.03,0,9
+PercentSalaryHike,1470,15.21,14.0,3.66,12.0,18.0,6.0,0.82,11,25
+TotalWorkingYears,1470,11.28,10.0,7.78,6.0,15.0,9.0,1.12,0,40
+TrainingTimesLastYear,1470,2.8,3.0,1.29,2.0,3.0,1.0,0.55,0,6
+YearsAtCompany,1470,7.01,5.0,6.13,3.0,9.0,6.0,1.76,0,40
+YearsInCurrentRole,1470,4.23,3.0,3.62,2.0,7.0,5.0,0.92,0,18
+YearsSinceLastPromotion,1470,2.19,1.0,3.22,0.0,3.0,3.0,1.98,0,15
+YearsWithCurrManager,1470,4.12,3.0,3.57,2.0,7.0,5.0,0.83,0,17

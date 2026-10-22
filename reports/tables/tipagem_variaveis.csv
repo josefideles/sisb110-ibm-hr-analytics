@@ -1,0 +1,29 @@
+variavel,tipo_estatistico,descricao,tipo_lido_pandas
+Age,Quantitativa contínua,Idade,int64
+MonthlyIncome,Quantitativa contínua,Renda mensal (US$),int64
+DistanceFromHome,Quantitativa discreta,Distância de casa (km),int64
+NumCompaniesWorked,Quantitativa discreta,Nº de empresas anteriores,int64
+PercentSalaryHike,Quantitativa discreta,Reajuste salarial (%),int64
+TotalWorkingYears,Quantitativa discreta,Anos de experiência total,int64
+TrainingTimesLastYear,Quantitativa discreta,Treinamentos no último ano,int64
+YearsAtCompany,Quantitativa discreta,Anos na empresa,int64
+YearsInCurrentRole,Quantitativa discreta,Anos no cargo atual,int64
+YearsSinceLastPromotion,Quantitativa discreta,Anos desde a última promoção,int64
+YearsWithCurrManager,Quantitativa discreta,Anos com o gestor atual,int64
+Attrition,Qualitativa nominal,Rotatividade (saiu?),str
+Department,Qualitativa nominal,Departamento,str
+JobRole,Qualitativa nominal,Cargo,str
+EducationField,Qualitativa nominal,Área de formação,str
+Gender,Qualitativa nominal,Gênero,str
+MaritalStatus,Qualitativa nominal,Estado civil,str
+OverTime,Qualitativa nominal,Hora extra,str
+BusinessTravel,Qualitativa ordinal,Viagens a trabalho,str
+Education,Qualitativa ordinal,Escolaridade,int64
+EnvironmentSatisfaction,Qualitativa ordinal,Satisfação com o ambiente,int64
+JobInvolvement,Qualitativa ordinal,Envolvimento com o trabalho,int64
+JobLevel,Qualitativa ordinal,Nível do cargo,int64
+JobSatisfaction,Qualitativa ordinal,Satisfação com o trabalho,int64
+PerformanceRating,Qualitativa ordinal,Avaliação de desempenho,int64
+RelationshipSatisfaction,Qualitativa ordinal,Satisfação com relacionamentos,int64
+StockOptionLevel,Qualitativa ordinal,Nível de ações (stock options),int64
+WorkLifeBalance,Qualitativa ordinal,Equilíbrio vida-trabalho,int64

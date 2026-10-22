@@ -1,0 +1,77 @@
+{
+  "n": 1470,
+  "saidas": 237,
+  "taxa_geral": 16.122448979591837,
+  "taxa_ic": [
+    14.33125454143761,
+    18.090242082971546
+  ],
+  "taxa_he_sim": 30.528846153846157,
+  "taxa_he_nao": 10.436432637571158,
+  "n_he_sim": 416,
+  "he_diff": 20.092413516275,
+  "he_diff_ic": [
+    15.416435554501117,
+    24.985733088129113
+  ],
+  "he_rr": 2.9252185314685315,
+  "he_chi2": 87.56429365828768,
+  "he_v": 0.24406463632881792,
+  "renda_media_saiu": 4787.0928270042195,
+  "renda_media_ficou": 6832.739659367397,
+  "renda_mediana_saiu": 3202.0,
+  "renda_mediana_ficou": 5204.0,
+  "renda_diff": -2045.646832363177,
+  "renda_diff_ic": [
+    -2583.0501487779247,
+    -1508.2435159484294
+  ],
+  "renda_t": -7.482621586644742,
+  "renda_gl": 412.74074755747006,
+  "renda_d": -0.44001780335915724,
+  "taxa_q1_renda": 29.268292682926827,
+  "taxa_q4_renda": 10.326086956521738,
+  "taxa_rep_vendas": 39.75903614457831,
+  "taxa_tec_lab": 23.93822393822394,
+  "dep_chi2": 10.79600732241067,
+  "dep_p": 0.004525606574479633,
+  "dep_v": 0.0856984402909795,
+  "cargo_chi2": 86.19025367670434,
+  "cargo_v": 0.24214215996065436,
+  "inv_baixo": 33.734939759036145,
+  "inv_muito_alto": 9.027777777777777,
+  "amb_baixo": 25.352112676056336,
+  "wlb_ruim": 31.25,
+  "q3_v": {
+    "JobInvolvement × Attrition": 0.13922042727457964,
+    "EnvironmentSatisfaction × Attrition": 0.12372858554725893,
+    "JobSatisfaction × Attrition": 0.1091247710343438,
+    "WorkLifeBalance × Attrition": 0.10538267516821954
+  },
+  "q3_p_holm": {
+    "JobInvolvement × Attrition": 1.1452722546853678e-05,
+    "EnvironmentSatisfaction × Attrition": 0.00015370406718868263,
+    "JobSatisfaction × Attrition": 0.0011126009020775113,
+    "WorkLifeBalance × Attrition": 0.0011126009020775113
+  },
+  "q3_chi2": {
+    "JobInvolvement × Attrition": 28.492021234659283,
+    "EnvironmentSatisfaction × Attrition": 22.503881435842295,
+    "JobSatisfaction × Attrition": 17.505077010348,
+    "WorkLifeBalance × Attrition": 16.3250970916474
+  },
+  "reajuste_nota4": 21.849557522123895,
+  "reajuste_nota3": 14.003215434083602,
+  "reajuste_diff_ic": [
+    7.603090610937244,
+    8.089593565143343
+  ],
+  "reajuste_t": 63.388658676077284,
+  "anova_f": 1.0765478278321752,
+  "anova_p": 0.3579055341342547,
+  "anova_eta2": 0.002198188348445742,
+  "corr_rho": -0.03376707640709217,
+  "corr_p": 0.19569412010377576,
+  "taxa_nota3": 16.077170418006432,
+  "taxa_nota4": 16.371681415929203
+}

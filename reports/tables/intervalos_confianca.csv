@@ -1,0 +1,8 @@
+pergunta,parametro,estimativa,ic_inferior,ic_superior,unidade,metodo
+Q1,Taxa de rotatividade geral,16.122,14.331,18.09,%,Wilson
+Q1,Taxa de rotatividade — P&D,13.84,11.8,16.167,%,Wilson
+Q1,Taxa de rotatividade — Vendas,20.628,17.131,24.626,%,Wilson
+Q1,Taxa de rotatividade — RH,19.048,11.246,30.407,%,Wilson
+Q2,Diferença de renda média (Saiu − Ficou),-2045.647,-2583.05,-1508.244,US$,t de Welch
+Q4,Diferença na taxa de saída (com − sem hora extra),20.092,15.416,24.986,p.p.,Newcombe
+Q5,Diferença de reajuste médio (nota 4 − nota 3),7.846,7.603,8.09,p.p.,t de Welch

@@ -1,0 +1,9 @@
+verificacao,resultado,acao,justificativa
+Valores ausentes,0 em 35 colunas,Nenhuma ação,Base completa
+Duplicatas,0 linhas · 0 IDs,Nenhuma ação,Cada linha é um funcionário único
+Colunas constantes,"EmployeeCount, Over18, StandardHours",Removidas,"Variância zero, sem informação"
+Identificador,EmployeeNumber,Mantido só como ID,Não é variável analítica
+Taxas inconsistentes,"DailyRate, HourlyRate, MonthlyRate","Mantidas, fora da análise",Correlação ≈ 0 com MonthlyIncome
+Outliers (IQR),713 valores em 8 variáveis,Mantidos,Valores legítimos (cargos sêniores); testes robustos na Etapa III
+Escalas 1–4 / 1–5,"Satisfação, envolvimento, escolaridade...",Convertidas em ordinais rotuladas,"São categorias ordenadas, não medidas"
+Variáveis derivadas,"Attrition_bin, OverTime_bin, faixas",Criadas,Facilitar taxas e leitura de negócio

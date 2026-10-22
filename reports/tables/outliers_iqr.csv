@@ -1,0 +1,12 @@
+variavel,Q1,Q3,IQR,limite_inferior,limite_superior,n_outliers,pct_outliers,maximo_observado
+Age,30.0,43.0,13.0,10.5,62.5,0,0.0,60
+MonthlyIncome,2911.0,8379.0,5468.0,-5291.0,16581.0,114,7.76,19999
+DistanceFromHome,2.0,14.0,12.0,-16.0,32.0,0,0.0,29
+NumCompaniesWorked,1.0,4.0,3.0,-3.5,8.5,52,3.54,9
+PercentSalaryHike,12.0,18.0,6.0,3.0,27.0,0,0.0,25
+TotalWorkingYears,6.0,15.0,9.0,-7.5,28.5,63,4.29,40
+TrainingTimesLastYear,2.0,3.0,1.0,0.5,4.5,238,16.19,6
+YearsAtCompany,3.0,9.0,6.0,-6.0,18.0,104,7.07,40
+YearsInCurrentRole,2.0,7.0,5.0,-5.5,14.5,21,1.43,18
+YearsSinceLastPromotion,0.0,3.0,3.0,-4.5,7.5,107,7.28,15
+YearsWithCurrManager,2.0,7.0,5.0,-5.5,14.5,14,0.95,17

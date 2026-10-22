@@ -1,0 +1,23 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Caches do Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Arquivos temporários do LibreOffice / Word
+~$*
+.~lock.*
+
+# Sistema operacional / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+docs/PLANEJAMENTO.md

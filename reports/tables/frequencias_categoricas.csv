@@ -1,0 +1,67 @@
+variavel,categoria,freq_absoluta,freq_relativa_pct
+Attrition,No,1233,83.88
+Attrition,Yes,237,16.12
+Department,Research & Development,961,65.37
+Department,Sales,446,30.34
+Department,Human Resources,63,4.29
+JobRole,Sales Executive,326,22.18
+JobRole,Research Scientist,292,19.86
+JobRole,Laboratory Technician,259,17.62
+JobRole,Manufacturing Director,145,9.86
+JobRole,Healthcare Representative,131,8.91
+JobRole,Manager,102,6.94
+JobRole,Sales Representative,83,5.65
+JobRole,Research Director,80,5.44
+JobRole,Human Resources,52,3.54
+EducationField,Life Sciences,606,41.22
+EducationField,Medical,464,31.56
+EducationField,Marketing,159,10.82
+EducationField,Technical Degree,132,8.98
+EducationField,Other,82,5.58
+EducationField,Human Resources,27,1.84
+Gender,Male,882,60.0
+Gender,Female,588,40.0
+MaritalStatus,Married,673,45.78
+MaritalStatus,Single,470,31.97
+MaritalStatus,Divorced,327,22.24
+OverTime,No,1054,71.7
+OverTime,Yes,416,28.3
+BusinessTravel,Non-Travel,150,10.2
+BusinessTravel,Travel_Rarely,1043,70.95
+BusinessTravel,Travel_Frequently,277,18.84
+Education,1,170,11.56
+Education,2,282,19.18
+Education,3,572,38.91
+Education,4,398,27.07
+Education,5,48,3.27
+EnvironmentSatisfaction,1,284,19.32
+EnvironmentSatisfaction,2,287,19.52
+EnvironmentSatisfaction,3,453,30.82
+EnvironmentSatisfaction,4,446,30.34
+JobInvolvement,1,83,5.65
+JobInvolvement,2,375,25.51
+JobInvolvement,3,868,59.05
+JobInvolvement,4,144,9.8
+JobLevel,1,543,36.94
+JobLevel,2,534,36.33
+JobLevel,3,218,14.83
+JobLevel,4,106,7.21
+JobLevel,5,69,4.69
+JobSatisfaction,1,289,19.66
+JobSatisfaction,2,280,19.05
+JobSatisfaction,3,442,30.07
+JobSatisfaction,4,459,31.22
+PerformanceRating,3,1244,84.63
+PerformanceRating,4,226,15.37
+RelationshipSatisfaction,1,276,18.78
+RelationshipSatisfaction,2,303,20.61
+RelationshipSatisfaction,3,459,31.22
+RelationshipSatisfaction,4,432,29.39
+StockOptionLevel,0,631,42.93
+StockOptionLevel,1,596,40.54
+StockOptionLevel,2,158,10.75
+StockOptionLevel,3,85,5.78
+WorkLifeBalance,1,80,5.44
+WorkLifeBalance,2,344,23.4
+WorkLifeBalance,3,893,60.75
+WorkLifeBalance,4,153,10.41
