@@ -258,6 +258,18 @@ def _ajustar_capa(doc: Document) -> None:
                     anterior._p.getparent().remove(anterior._p)
 
 
+def _justificar_folha_de_rosto(doc: Document) -> None:
+    """
+    Na folha de rosto, o texto da natureza do trabalho ("Trabalho solicitado...") e o
+    nome do docente ficam JUSTIFICADOS. O recuo esquerdo do modelo (≈ 8 cm) é mantido:
+    só o alinhamento muda.
+    """
+    inicios = ("Trabalho solicitado na disciplina", "Orientado pelo docente")
+    for par in doc.paragraphs:
+        if par.text.strip().startswith(inicios):
+            par.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+
+
 def _achar(doc: Document, texto: str, estilo: str | None = None):
     for par in doc.paragraphs:
         if par.text.strip() == texto and (estilo is None or par.style.name == estilo):
@@ -882,6 +894,7 @@ def gerar_relatorio() -> None:
     doc = Document(str(config.MODELO_RELATORIO))
     _corrigir_margens(doc)
     _ajustar_capa(doc)
+    _justificar_folha_de_rosto(doc)
 
     # remove os subtítulos vazios do modelo ("1.1.", "2.1." ...); o conteúdo cria os seus
     for par in list(doc.paragraphs):
