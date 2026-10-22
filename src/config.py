@@ -27,8 +27,7 @@ MODELO_RELATORIO = RAIZ / "docs" / "modelo_relatorio" / "modelo_google_docs.docx
 
 URL_DATASET = "https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data"
 NOME_REPOSITORIO = "sisb110-ibm-hr-analytics"
-# ⚠️ Troque SEU-USUARIO pelo seu usuário do GitHub depois de publicar o repositório
-URL_REPOSITORIO = f"https://github.com/SEU-USUARIO/{NOME_REPOSITORIO}"
+URL_REPOSITORIO = f"https://github.com/josefideles/{NOME_REPOSITORIO}"
 
 # ---------------------------------------------------------------------------
 # Parâmetros estatísticos
